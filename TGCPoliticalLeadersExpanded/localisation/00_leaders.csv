@@ -1,0 +1,40 @@
+CODE;ENGLISH;FRENCH;GERMAN;POLISH;SPANISH;ITALIAN;SWEDISH;CZECH;HUNGARIAN;DUTCH;PORTUGUESE;RUSSIAN;FINNISH;x
+EDGER_COUNTRY_NATIONALVALUE;First Minister;;;;;;;;;x;;;;
+POLITICS_NATIONALVALUE_TOOLTIP;Our First Minister is a §Y$NATIONALVALUE$§!\n;;;;;;;;;x;;;;
+NOT_HAS_NATIONAL_VALUE;First Minister is NOT §Y$NATIONALVALUE$§!.;;;;;;;;;x;;;;
+HAS_NATIONAL_VALUE;First Minister is §Y$NATIONALVALUE$§!.;;;;;;;;;x;;;;
+#############################################;;;;;;;x
+#Leaders;;;;;;;x
+#############################################;;;;;;;x
+no_minister;§RUnknown;;;;;;;;;;;;;
+european_expert_diplomat;Expert Diplomat;;;;;;;;;;;;;
+european_successful_industrialist;Successful Industrialist;;;;;;;;;;;;;
+european_ivory_tower_intellectual;Ivory Tower Intellectual;;;;;;;;;;;;;
+european_man_of_the_people;Man of the People;;;;;;;;;;;;;
+european_landed_gentleman;Landed Gentleman;;;;;;;;;;;;;
+european_military_man;Military Man;;;;;;;;;;;;;
+european_lord_admiral;Lord Admiral;;;;;;;;;;;;;
+european_raving_loon;Raving Loon;;;;;;;;;;;;;
+european_luddite;Luddite;;;;;;;;;;;;;
+european_great_statesman;Great Statesman;;;;;;;;;;;;;
+european_backroom_boy;Backroom Boy;;;;;;;;;;;;;
+european_great_reformer;Great Reformer;;;;;;;;;;;;;
+european_gauche_buffoon;Gauche Buffoon;;;;;;;;;;;;;
+european_administrative_genius;Administrative Genius;;;;;;;;;;;;;
+european_visionary_thinker;Visionary Thinker;;;;;;;;;;;;;
+european_competent_placeholder;Competent Placeholder;;;;;;;;;;;;;
+european_imperious_autocrat;Imperious Autocrat;;;;;;;;;;;;;
+european_prince_of_terror;Prince of Terror;;;;;;;;;;;;;
+european_efficient_sociopath;Efficient Sociopath;;;;;;;;;;;;;
+european_pig_headed_isolationist;Pig-Headed Isolationist;;;;;;;;;;;;;
+european_ambitious_union_boss;Ambitious Union Boss;;;;;;;;;;;;;
+european_dour_economist;Dour Economist;;;;;;;;;;;;;
+european_clergyman;Clergyman;;;;;;;;;;;;;
+boer_voortrekker;Voortrekker;;;;;;;;;;;;;
+boer_commandant;Boer Commandant;;;;;;;;;;;;;
+#############################################;;;;;;;x
+#Events;;;;;;;x
+#############################################;;;;;;;x
+EVTDESC100060001;Our new first minister is a Great Trek pioneer.;;;;;;;;;;;;;
+EVTDESC100060002;Our first minister is responsible for recruiting and training the Boer commandos.;;;;;;;;;;;;;
+EVTDESC100050051;Our first minister is a very religious man devoted to the Church.;;;;;;;;;;;;;
